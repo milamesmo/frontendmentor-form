@@ -10,7 +10,7 @@ body {
   height: 100vh;
   font-family: "Space Grotesk", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   Font-size: 18px;
-  background-image: url(/images/bg-main-desktop.png);
+  background-image: url(images/bg-main-desktop.png);
   background-repeat: no-repeat;
 }
 
